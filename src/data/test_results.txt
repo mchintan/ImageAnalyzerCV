@@ -1,0 +1,24 @@
+Match score (Average) - 86 and 87
+
+run:
+Match Score [0 = No overlap - 1.0 = Same Image] :  0.5139593908629442
+0.03818909119358083
+Match Score [0 = No overlap - 1.0 = Same Image] :  0.5215736040609137
+1.0786028712986737
+
+84 and 85 (image hue changes)
+
+run:
+Match Score [0 = No overlap - 1.0 = Same Image] :  0.6506024096385542
+0.01641238979021544
+Match Score [0 = No overlap - 1.0 = Same Image] :  0.6506024096385542
+0.6983931646800654
+BUILD SUCCESSFUL (total time: 2 seconds)
+
+Same Image:
+
+Match Score [0 = No overlap - 1.0 = Same Image] :  1.0
+0.0
+Match Score [0 = No overlap - 1.0 = Same Image] :  1.0
+0.0
+BUILD SUCCESSFUL (total time: 2 seconds)
